@@ -1,0 +1,14 @@
+= Spring to Quarkus Workshop Guide
+
+This workshop focuses on how to modernize https://spring.io/projects/spring-boot[Spring Boot] to https://quarkus.io[Quarkus], supersonic, subatomic container-native Java. The workshop uses https://developers.redhat.com/products/codeready-workspaces/overview[CodeReay Workspaces] to develop Quarkus apps and deploy them to a Kubernetes cluster (based on OpenShift), and covers several other developer topics such as:
+
+* Spring Web to Quarkus JAX-RS
+* Spring DI to Quarkus
+* Spring Boot Tests to Quarkus
+* Spring Data JPA to Quarkus Hibernate ORM with Panache
+* Spring Micrometer to Quarkus Microprofile Metrics
+* Spring Cache to Quarkus
+* Spring Cloud Config to Quarkus
+* Spring Properties to Quarkus
+* Spring Security to Quarkus 
+
