@@ -1,6 +1,6 @@
 ---
-id: quarkus-lab
-name: Quarkus Hands-on Lab (Lab Version 2020-04-07)
+id: spring2quarkus-lab
+name: Spring to Quarkus Hands-on Lab (Lab Version 2020-07-17)
 
 vars:
   ROUTE_SUBDOMAIN:
@@ -16,18 +16,12 @@ vars:
 modules:
   activate:
   - intro
-  - basics
-  - cdi
+  - web
+  - di
   - testing
-  - debugging
-  - native
-  - cloudnative
-  - deploy
-  - extensions
   - panache
-  - openapi
-  - messaging
-  - kafka
-  - monitoring
-  - tracing
+  - metrics
+  - cache
+  - config
+  - properties
   - security
