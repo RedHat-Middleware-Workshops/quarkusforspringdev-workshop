@@ -1,0 +1,21 @@
+modules:
+  intro:
+    name: Getting Started with Spring to Quarkus
+  web:
+    name: Spring Web to Quarkus JAX-RS
+  di:
+    name: Spring DI to Quarkus
+  testing:
+    name: Spring Boot Tests to Quarkus
+  panache:
+    name: Spring Data JPA to Quarkus Hibernate ORM with Panache
+  metrics:
+    name: Spring Micrometer to Quarkus Microprofile Metrics
+  cache:
+    name: Spring Cache to Quarkus
+  config:
+    name: Spring Cloud Config to Quarkus
+  properties:
+    name: Spring Properties to Quarkus
+  security:
+    name: Spring Security to Quarkus 
